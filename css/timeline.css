@@ -178,6 +178,18 @@ header .social .btn {
   border-radius: 3px 3px 0 0;
 }
 
+#timeline .timeline-item .timeline-content h5 {
+  padding: 15px;
+  background: #1abc9c;
+  color: #fff;
+  margin: -20px -20px 0 -20px;
+  font-weight: 300;
+  -webkit-border-radius: 3px 3px 0 0;
+  -moz-border-radius: 3px 3px 0 0;
+  -ms-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+}
+
 #timeline .timeline-item .timeline-content p {
   padding-top: 15px;
 }
